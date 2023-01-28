@@ -1,3 +1,6 @@
 # Random Quote Machine
 ### project is build for purpose of earn FreeCodeCamp certificate </br>
-### and it has p
+### and it has passed from all tests
+*if you would like to check*
+*you can click menu and choose project name then test*
+
